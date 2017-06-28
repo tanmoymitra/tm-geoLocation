@@ -1,8 +1,11 @@
 {
   "name": "tm-geoLocation",
   "version": "1.0.0",
-  "description": "",
+  "description": "geo Location Data",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/tanmoymitra/tm-geoLocation"
@@ -12,6 +15,7 @@
     "global IP",
     "html"
   ],
+  "homepage": "https://github.com/tanmoymitra/express-api-framework#readme",
   "author": "Tanmoy Mitra <tanmoymitra@gmail.com>",
   "licenses": [
     {
